@@ -1,6 +1,4 @@
 
 .idea/
-build.sbt
-project/
-src/
-target/
+project/project
+**/target
